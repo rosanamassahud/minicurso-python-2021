@@ -1,12 +1,13 @@
-# Aula 1
+# Aula 1 - Introdução à Linguagem Python, Sintaxe e estruturas de controle
 
 ## Conteúdo da aula
 
+- Introdução à Linguagem de Programação Python
+- Sintaxe
 - Variáveis
-- Print/input
-- Tipos primitivos
-- Operações lógicas e aritméticas
-- Funções
-- Indentação
-- Estruturas de controle
-- Estruturas de repetição
+- Tipos de dados
+- Comandos básicos de entrada e saída (print/input)
+- Operações lógicas e aritméticas. Operadores
+- List e outras coleções
+- Estruturas condicionais
+- Loops
