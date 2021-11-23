@@ -1,3 +1,5 @@
+#import camelcase
+
 def eh_primo(n):
     if(n<=0):
         print('Número negativo')
@@ -31,6 +33,7 @@ def fibonacci(n):
             print(', {}'.format(elem),end='')
             n_2 = n_1
             n_1 = elem
+        print()    
 
 
 
@@ -46,3 +49,7 @@ if (__name__ == '__main__'):
         fibonacci(n)
     else:
         print('Opção inválida!')
+
+    #txt = 'hello world!'
+    #c = camelcase.CamelCase()
+    #print(c.hump(txt))
