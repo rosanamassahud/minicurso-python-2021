@@ -31,4 +31,4 @@ def exclui_arquivo(arquivo):
     os.remove(arquivo)
 
 
-exclui_arquivo('arquivo.txt')
+#exclui_arquivo('arquivo.txt')
