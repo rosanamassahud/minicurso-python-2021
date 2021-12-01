@@ -36,7 +36,7 @@ def fibonacci(n):
         print()    
 
 
-
+'''
 if (__name__ == '__main__'):
     n = int(input("Digite um número: "))
     opcao = int(input("O que deseja fazer? \n\t1-Ver se n é primo\n\t2-Calcular o fatorial de n\n\t3-Gerar a sequência de fibonacci até n\n"))
@@ -53,3 +53,4 @@ if (__name__ == '__main__'):
     #txt = 'hello world!'
     #c = camelcase.CamelCase()
     #print(c.hump(txt))
+'''
